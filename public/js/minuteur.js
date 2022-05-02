@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   
         if (this.remainingSeconds === 0) {
           this.stop();
+          alert('Temps Ecoulé')
         }
       }, 1000);
   
