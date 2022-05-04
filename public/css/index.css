@@ -33,10 +33,12 @@ main h1{
     font-size: clamp(1.2rem, 6vw, 7rem);
     margin: 0;
     text-align: center;
+    font-family: Title;
 }
 main h3{
     font-size: clamp(1.2rem, 6vw, 3rem);
     margin: 0;
+    font-family: Title;
     text-align: center;
 }
 @keyframes move {

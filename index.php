@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="public/css/index.css">
     <link rel="stylesheet" href="public/css/header.css">
     <link rel="stylesheet" href="public/css/footer.css">
+    <link rel="stylesheet" href="public/css/root&font.css">
     <script type="text/javascript" src="public/js/index.js"></script>
     <title>O'Clock</title>
 </head>

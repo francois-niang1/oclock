@@ -1,0 +1,28 @@
+#time{
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: Txt;
+    font-size: 150px;
+}
+#presenter{
+    font-size: 50px;
+    visibility: hidden;
+    font-family: Txt;
+}
+
+input[type="button"] {
+    border: none;
+    padding: 10px;
+    font-size: 30px;
+    background-color: rgb(116, 116, 236);
+    font-family: Txt;
+    cursor: pointer;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
