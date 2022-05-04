@@ -9,8 +9,10 @@
     <title>Horloge</title>
 </head>
 <body>
+    <?php require_once('header.php'); ?>
     <main>
         <div class="timer"></div>
     </main>
+    <?php require_once('footer.php'); ?>
 </body>
 </html>
